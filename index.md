@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  About
+title:  Jonathan V. Eldridge
 ---
 
 #About me
