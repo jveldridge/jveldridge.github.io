@@ -16,7 +16,7 @@
 <!--         <link rel="stylesheet" href="/css/syntax.css"> -->
 
         <!-- Custom CSS -->
-<!--         <link rel="stylesheet" href="/css/main.css"> -->
+        <link rel="stylesheet" href="/css/main.css">
 
     </head>
     <body>
@@ -45,17 +45,14 @@
           <div class="site">
 
                 {{ content }}
-
-<!-- 
+            
+            <hr/>
             <div class="footer">
-              <div class="contact">
+              <div class="poweredby">
                 <p>
-                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                Site last updated {{ site.time | date: "%-d %B %Y"}}. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and <a href="http://getbootstrap.com/">Bootstrap</a>.  
                 </p>
               </div>
- -->
-
             </div>
           </div>
         </div>
