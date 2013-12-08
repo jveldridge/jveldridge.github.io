@@ -2,8 +2,14 @@
 layout: default
 title:  Jonathan V. Eldridge - Résumé
 ---
+#Résumé
 
 ###Work Experience
+
+**Raphael Lab, Department of Computer Science and Center for Computational Molecular Biology, Brown University**, Providence, RI  
+*Senior Student Research Assistant; June 2013 – present*  
+I am working on improvements to HotNet and HotNet2, algorithms for finding significantly altered subnetworks in a large gene interaction network.
+
 **Microsoft Corporation**, Redmond, WA  
 *Program Manager, Windows Developer Experience; September 2012 – May 2013*  
 Worked on the Runtime Experience team on features for the next version of the Windows development platform, particularly on integration with online services.
@@ -16,6 +22,7 @@ All-up Program Management owner for development of the Windows Live service stat
 * Adding extensive instrumentation for quality of service monitoring and usage analysis,
 * Building new user problem reporting experience, and
 * Redesigning the site UX to match Windows 8-inspired guidelines
+
 
 Also worked on the Windows Live signout experience and served as team Business Intelligence / Customer Intelligence champ.
 
@@ -34,6 +41,11 @@ Designed, implemented, and tested a REST service to dynamically serve attribute 
 
 As a Head TA, was responsible for working with professor and other HTAs to revise course material and assignments as well as hire and manage course staffs of 10 – 15 UTAs. UTA responsibilities included helping write, revise, and grade student assignments; holding weekly hours for student questions; and running weekly labs.
 
+**DeGrado Lab, Department of Biochemistry and Biophysics, University of Pennsylvania**, Philadelphia, PA  
+*June – August 2009*  
+Performed computational work writing Perl scripts to analyze alpha-helical structures of transmem- brane proteins. Also assisted with experimental research into the activation of the αIIBβ3 integrin by computed helical anti-membrane protein (CHAMP) peptides.
+
+
 ###Education
 **Brown University**, Providence, RI  
 *Master of Science; 2013 - 2014 (expected)*  
@@ -41,15 +53,6 @@ Computer Science
 
 *Bachelor of Arts; 2007 - 2011*  
 Computer Science and Science & Society
-
-###Research Experience
-**Raphael Lab**, Brown University, Providence, RI  
-*September 2010 – May 2011*  
-Worked on HotNet, an algorithm for finding significantly altered subnetworks in a large gene interaction network. Re-implemented program to allow arbitrary biological data as input, prepared the program for release as an open-source tool for the bioinformatics community, and used program for experiments with data on gene expression, functional significance scores, and RNA binding protein targets. 
-
-**DeGrado Lab**, University of Pennsylvania, Philadelphia, PA  
-*June – August 2009*  
-Performed computational work writing Perl scripts to analyze alpha-helical structures of transmem- brane proteins. Also assisted with experimental research into the activation of the αIIBβ3 integrin by computed helical anti-membrane protein (CHAMP) peptides.
 
 ###Leadership & Volunteer Experience
 
