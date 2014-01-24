@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Jonathan V. Eldridge
+container_css_class: container
 ---
 
 #About me

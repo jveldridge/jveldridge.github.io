@@ -1,7 +1,11 @@
 ---
 layout: default
 title:  Jonathan V. Eldridge - Résumé
+container_css_class: container resume
 ---
+
+#### Downloads: [1-page Tech Résumé](/assets/JonathanEldridgeTechResume.pdf) | [Full CV](/assets/JonathanEldridgeCV.pdf)
+
 #Résumé
 
 ###Work Experience
@@ -22,7 +26,6 @@ All-up Program Management owner for development of the Windows Live service stat
 * Adding extensive instrumentation for quality of service monitoring and usage analysis,
 * Building new user problem reporting experience, and
 * Redesigning the site UX to match Windows 8-inspired guidelines
-
 
 Also worked on the Windows Live signout experience and served as team Business Intelligence / Customer Intelligence champ.
 

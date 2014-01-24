@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Jonathan V. Eldridge - Projects
+container_css_class: container resume
 ---
 
 #Projects
