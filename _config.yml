@@ -1,3 +1,9 @@
 name: Jonathan V. Eldridge
 markdown: redcarpet
 pygments: true
+
+ftp_host: 'ftp.jveldridge.com'
+ftp_dir: '/public_html'
+ftp_passive: false
+
+ftp_port: 21
