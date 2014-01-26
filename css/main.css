@@ -13,3 +13,7 @@ h1 {
 	margin-top:10px;
 }
 
+.project-div {
+	overflow: hidden;
+	width: 100%;
+}
